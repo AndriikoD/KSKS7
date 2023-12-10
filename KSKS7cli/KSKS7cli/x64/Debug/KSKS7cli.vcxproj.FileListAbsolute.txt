@@ -1,0 +1,2 @@
+C:\LR7\KSKS7cli\KSKS7cli\x64\Debug\KSKS7cli.vcxproj.AssemblyReference.cache
+C:\LR7\KSKS7cli\KSKS7cli\x64\Debug\KSKS7cli.vcxproj.SuggestedBindingRedirects.cache
